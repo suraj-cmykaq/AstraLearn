@@ -1,0 +1,27 @@
+{
+    "accuracy": 91.14,
+    "precision": 85.19,
+    "recall": 88.46,
+    "f1_score": 86.79,
+    "balanced_accuracy": 90.46,
+    "baseline_accuracy": 67.09,
+    "confusion_matrix": [
+        [
+            49,
+            4
+        ],
+        [
+            3,
+            23
+        ]
+    ],
+    "feature_importance": {
+        "G2": 0.5378,
+        "G1": 0.3088,
+        "absences": 0.0724,
+        "failures": 0.0508,
+        "studytime": 0.0302
+    },
+    "training_records": 316,
+    "testing_records": 79
+}
